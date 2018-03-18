@@ -1,1 +1,0 @@
-Sprawdzian1803
