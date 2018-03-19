@@ -4,7 +4,7 @@ public class Tablica {
 
     private int[][] tab = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
 
-    public static void mirror(int[][] tab) {
+    public void mirror(int[][] tab) {
 
         int[][] pionowo = new int[tab.length][tab[0].length];
         int[][] poziomo = new int[tab.length][tab[0].length];
